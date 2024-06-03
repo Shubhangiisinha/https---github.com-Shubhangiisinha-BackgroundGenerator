@@ -1,0 +1,17 @@
+body {
+    font-family: "Reddit Mono", monospace;
+    color: rgb(19, 2, 22);
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 0.5cm;
+    top: 10%;
+    background: linear-gradient(to right, purple, indigo);
+}
+
+h1, h2 {
+    font-family: 'fantasy', cursive;
+    color: beige;
+    font-weight: 100;
+    font-style: italic;
+}
